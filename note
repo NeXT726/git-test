@@ -1,3 +1,7 @@
 master modify note
 second modify note in t1
+<<<<<<< HEAD
 master modify note 2
+=======
+t2 modify note 2
+>>>>>>> t2
